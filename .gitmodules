@@ -1,0 +1,3 @@
+[submodule "cs50x"]
+	path = cs50x
+	url = git@github.com:code50/40458356.git
