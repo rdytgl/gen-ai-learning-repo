@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It has a fast run time when given a sorted input; has Big Omega n
+
+sort2 uses: Merge Sort
+
+How do you know?: Outputs the fastest time when given a random input; runs at O(n)
+
+sort3 uses: Selection Sort
+
+How do you know?: Outputs the slowest run time; runs at Big Omega n^2

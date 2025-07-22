@@ -1,0 +1,5 @@
+If songs.db is the Top 100 songs of a listener from 2018, I might characterize their audio
+aura as someone who is high energy and is into dancey vibe. I have used an average of this listener songs'
+energy, valence, and danceability. And I can suspect that averaging it may have ignored some outliers to the
+listener's music choices as they vary wildly. I'd suggest looking at each song using a three-dimensional graph where
+each song has its own coordinate, and that's where the audio aura can be found
