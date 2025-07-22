@@ -14,6 +14,9 @@ Included here are the following:
 1. Codebase in analysing the data
 2. PDFs explaining the results of the analysis and my thought process on how I eventually solved this problem
 
+### 3. [Google ML Crash Course Coding Exercises ](ml/cc/exercises/)
+Currently working through the coding exercises from Google's Machine Learning Crash Course. These are primarily for my personal learning and reference, especially as I continue building my understanding of machine learning concepts and TensorFlow syntax.
+
 ## About Me
 
 I'm pivoting from business and operations research into tech—driven by a desire to solve real-world problems using data, systems thinking, and AI. I'm especially curious about how GenAI can change the way we work, learn, and connect. 
